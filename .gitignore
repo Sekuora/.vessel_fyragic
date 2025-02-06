@@ -1,0 +1,9 @@
+.gitmodules
+
+# init_vessel generated files
+
+.vessel
+
+# vcpkg generated files
+vcpkg.json
+vcpkg-configuration.json
