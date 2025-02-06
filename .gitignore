@@ -7,3 +7,4 @@
 # vcpkg generated files
 vcpkg.json
 vcpkg-configuration.json
+vcpkg_installed
